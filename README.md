@@ -1,1 +1,1 @@
-# IETC-ImageColorisation
+# IET-ImageColorisation
